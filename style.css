@@ -124,11 +124,11 @@ body{
 .gmail:hover{
     color: #BB001B !important;
     background-color: transparent !important;
-    transition: ease-in-out 1s;
-    -webkit-transition: ease-in-out 1s;
-    -moz-transition: ease-in-out 1s;
-    -ms-transition: ease-in-out 1s;
-    -o-transition: ease-in-out 1s;
+    transition: ease-in-out 1s !important;
+    -webkit-transition: ease-in-out 1s !important;
+    -moz-transition: ease-in-out 1s !important;
+    -ms-transition: ease-in-out 1s !important;
+    -o-transition: ease-in-out 1s !important;
 }
 .linkedin{
     width: 45px;
@@ -143,11 +143,11 @@ body{
 .linkedin:hover{
     color: #0a66c2;
     background-color: transparent !important;
-    transition: ease-in-out 1s;
-    -webkit-transition: ease-in-out 1s;
-    -moz-transition: ease-in-out 1s;
-    -ms-transition: ease-in-out 1s;
-    -o-transition: ease-in-out 1s;
+    transition: ease-in-out 1s !important;
+    -webkit-transition: ease-in-out 1s !important;
+    -moz-transition: ease-in-out 1s !important;
+    -ms-transition: ease-in-out 1s !important;
+    -o-transition: ease-in-out 1s !important;
 }
 .github{
         width: 45px;
@@ -165,11 +165,11 @@ body{
 }
 .bi-github :hover{
     color: #6e5494 !important;
-    transition: ease-in-out 1s;
-    -webkit-transition: ease-in-out 1s;
-    -moz-transition: ease-in-out 1s;
-    -ms-transition: ease-in-out 1s;
-    -o-transition: ease-in-out 1s;
+    transition: ease-in-out 1s !important;
+    -webkit-transition: ease-in-out 1s !important;
+    -moz-transition: ease-in-out 1s !important;
+    -ms-transition: ease-in-out 1s !important;
+    -o-transition: ease-in-out 1s !important;
 }
 .github:hover{
     color: #6e5494 !important;
