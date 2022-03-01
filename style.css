@@ -115,6 +115,11 @@ body{
 }
 .bi-envelope:hover{
     color: #BB001B !important;
+    transition: ease-in-out 1s;
+    -webkit-transition: ease-in-out 1s;
+    -moz-transition: ease-in-out 1s;
+    -ms-transition: ease-in-out 1s;
+    -o-transition: ease-in-out 1s;
 }
 .gmail:hover{
     color: #BB001B !important;
@@ -160,6 +165,11 @@ body{
 }
 .bi-github :hover{
     color: #6e5494 !important;
+    transition: ease-in-out 1s;
+    -webkit-transition: ease-in-out 1s;
+    -moz-transition: ease-in-out 1s;
+    -ms-transition: ease-in-out 1s;
+    -o-transition: ease-in-out 1s;
 }
 .github:hover{
     color: #6e5494 !important;
@@ -221,3 +231,4 @@ body{
         margin-right: 1rem;
     }
   }
+  /* https://github.com/HsuMyatNg/HMNPortfolio.git */
